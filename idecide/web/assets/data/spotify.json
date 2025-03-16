@@ -1,0 +1,778 @@
+[
+    {
+      "subject": "Bruno Mars",
+      "description": "",
+      "verb": "has",
+      "metric": "146,530,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "The Weeknd",
+      "description": "",
+      "verb": "has",
+      "metric": "116,990,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Taylor Swift",
+      "description": "",
+      "verb": "has",
+      "metric": "105,420,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Billie Eilish",
+      "description": "",
+      "verb": "has",
+      "metric": "98,750,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Kendrick Lamar",
+      "description": "",
+      "verb": "has",
+      "metric": "111,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Lady Gaga",
+      "description": "",
+      "verb": "has",
+      "metric": "123,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Drake",
+      "description": "",
+      "verb": "has",
+      "metric": "82,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Bad Bunny",
+      "description": "",
+      "verb": "has",
+      "metric": "90,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Coldplay",
+      "description": "",
+      "verb": "has",
+      "metric": "96,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Ariana Grande",
+      "description": "",
+      "verb": "has",
+      "metric": "85,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Ed Sheeran",
+      "description": "",
+      "verb": "has",
+      "metric": "78,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Eminem",
+      "description": "",
+      "verb": "has",
+      "metric": "72,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Travis Scott",
+      "description": "",
+      "verb": "has",
+      "metric": "71,100,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Kanye West",
+      "description": "",
+      "verb": "has",
+      "metric": "65,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "SZA",
+      "description": "",
+      "verb": "has",
+      "metric": "63,400,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Future",
+      "description": "",
+      "verb": "has",
+      "metric": "62,400,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Dua Lipa",
+      "description": "",
+      "verb": "has",
+      "metric": "60,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Doja Cat",
+      "description": "",
+      "verb": "has",
+      "metric": "58,100,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Harry Styles",
+      "description": "",
+      "verb": "has",
+      "metric": "57,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Post Malone",
+      "description": "",
+      "verb": "has",
+      "metric": "56,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Playboi Carti",
+      "description": "",
+      "verb": "has",
+      "metric": "51,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Lil Wayne",
+      "description": "",
+      "verb": "has",
+      "metric": "51,100,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Tyler, The Creator",
+      "description": "",
+      "verb": "has",
+      "metric": "49,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Rihanna",
+      "description": "",
+      "verb": "has",
+      "metric": "48,700,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Olivia Rodrigo",
+      "description": "",
+      "verb": "has",
+      "metric": "47,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Justin Bieber",
+      "description": "",
+      "verb": "has",
+      "metric": "46,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Shakira",
+      "description": "",
+      "verb": "has",
+      "metric": "45,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Miley Cyrus",
+      "description": "",
+      "verb": "has",
+      "metric": "44,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "J Balvin",
+      "description": "",
+      "verb": "has",
+      "metric": "43,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "BTS",
+      "description": "",
+      "verb": "has",
+      "metric": "42,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Adele",
+      "description": "",
+      "verb": "has",
+      "metric": "41,700,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Beyoncé",
+      "description": "",
+      "verb": "has",
+      "metric": "40,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Imagine Dragons",
+      "description": "",
+      "verb": "has",
+      "metric": "39,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Karol G",
+      "description": "",
+      "verb": "has",
+      "metric": "38,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "21 Savage",
+      "description": "",
+      "verb": "has",
+      "metric": "38,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Nicki Minaj",
+      "description": "",
+      "verb": "has",
+      "metric": "37,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Peso Pluma",
+      "description": "",
+      "verb": "has",
+      "metric": "36,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Sabrina Carpenter",
+      "description": "",
+      "verb": "has",
+      "metric": "36,400,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Lana Del Rey",
+      "description": "",
+      "verb": "has",
+      "metric": "35,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Metro Boomin",
+      "description": "",
+      "verb": "has",
+      "metric": "35,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Arijit Singh",
+      "description": "",
+      "verb": "has",
+      "metric": "34,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Calvin Harris",
+      "description": "",
+      "verb": "has",
+      "metric": "34,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "The Beatles",
+      "description": "",
+      "verb": "has",
+      "metric": "34,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Queen",
+      "description": "",
+      "verb": "has",
+      "metric": "33,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Shawn Mendes",
+      "description": "",
+      "verb": "has",
+      "metric": "33,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Feid",
+      "description": "",
+      "verb": "has",
+      "metric": "33,100,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Sam Smith",
+      "description": "",
+      "verb": "has",
+      "metric": "32,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Jung Kook",
+      "description": "",
+      "verb": "has",
+      "metric": "32,400,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Lil Baby",
+      "description": "",
+      "verb": "has",
+      "metric": "32,100,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "David Guetta",
+      "description": "",
+      "verb": "has",
+      "metric": "31,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Arctic Monkeys",
+      "description": "",
+      "verb": "has",
+      "metric": "31,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Chris Brown",
+      "description": "",
+      "verb": "has",
+      "metric": "31,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Maluma",
+      "description": "",
+      "verb": "has",
+      "metric": "31,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Marshmello",
+      "description": "",
+      "verb": "has",
+      "metric": "30,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "The Chainsmokers",
+      "description": "",
+      "verb": "has",
+      "metric": "30,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Khalid",
+      "description": "",
+      "verb": "has",
+      "metric": "30,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Rauw Alejandro",
+      "description": "",
+      "verb": "has",
+      "metric": "29,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "One Direction",
+      "description": "",
+      "verb": "has",
+      "metric": "29,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Frank Ocean",
+      "description": "",
+      "verb": "has",
+      "metric": "29,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "AnnenMayKantereit",
+      "description": "",
+      "verb": "has",
+      "metric": "29,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Elton John",
+      "description": "",
+      "verb": "has",
+      "metric": "28,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Daddy Yankee",
+      "description": "",
+      "verb": "has",
+      "metric": "28,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Morgan Wallen",
+      "description": "",
+      "verb": "has",
+      "metric": "28,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Red Hot Chili Peppers",
+      "description": "",
+      "verb": "has",
+      "metric": "27,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Kygo",
+      "description": "",
+      "verb": "has",
+      "metric": "27,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Tiësto",
+      "description": "",
+      "verb": "has",
+      "metric": "27,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Lady A",
+      "description": "",
+      "verb": "has",
+      "metric": "27,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Hozier",
+      "description": "",
+      "verb": "has",
+      "metric": "26,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Gunna",
+      "description": "",
+      "verb": "has",
+      "metric": "26,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Cardi B",
+      "description": "",
+      "verb": "has",
+      "metric": "26,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Linkin Park",
+      "description": "",
+      "verb": "has",
+      "metric": "25,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Charlie Puth",
+      "description": "",
+      "verb": "has",
+      "metric": "25,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "The Neighbourhood",
+      "description": "",
+      "verb": "has",
+      "metric": "25,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Panic! At The Disco",
+      "description": "",
+      "verb": "has",
+      "metric": "25,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "AC/DC",
+      "description": "",
+      "verb": "has",
+      "metric": "24,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Jason Derulo",
+      "description": "",
+      "verb": "has",
+      "metric": "24,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Meek Mill",
+      "description": "",
+      "verb": "has",
+      "metric": "24,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "My Chemical Romance",
+      "description": "",
+      "verb": "has",
+      "metric": "23,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Green Day",
+      "description": "",
+      "verb": "has",
+      "metric": "23,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Nirvana",
+      "description": "",
+      "verb": "has",
+      "metric": "23,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Young Thug",
+      "description": "",
+      "verb": "has",
+      "metric": "23,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "OutKast",
+      "description": "",
+      "verb": "has",
+      "metric": "22,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Fleetwood Mac",
+      "description": "",
+      "verb": "has",
+      "metric": "22,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Gorillaz",
+      "description": "",
+      "verb": "has",
+      "metric": "22,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Tame Impala",
+      "description": "",
+      "verb": "has",
+      "metric": "21,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "A$AP Rocky",
+      "description": "",
+      "verb": "has",
+      "metric": "21,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Daft Punk",
+      "description": "",
+      "verb": "has",
+      "metric": "21,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Fall Out Boy",
+      "description": "",
+      "verb": "has",
+      "metric": "21,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Mac Miller",
+      "description": "",
+      "verb": "has",
+      "metric": "20,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Journey",
+      "description": "",
+      "verb": "has",
+      "metric": "20,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Lil Uzi Vert",
+      "description": "",
+      "verb": "has",
+      "metric": "20,200,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Paramore",
+      "description": "",
+      "verb": "has",
+      "metric": "19,900,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "The Killers",
+      "description": "",
+      "verb": "has",
+      "metric": "19,600,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Muse",
+      "description": "",
+      "verb": "has",
+      "metric": "19,300,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Radiohead",
+      "description": "",
+      "verb": "has",
+      "metric": "19,000,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "Childish Gambino",
+      "description": "",
+      "verb": "has",
+      "metric": "18,800,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    },
+    {
+      "subject": "The Rolling Stones",
+      "description": "",
+      "verb": "has",
+      "metric": "18,500,000",
+      "metricDisplay": "monthly listeners",
+      "image": ""
+    }
+  ]

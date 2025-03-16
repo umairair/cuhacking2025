@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  a {
+     @apply underline;
+  }
+}
+
+/* Add these to the end of your existing main.css file */
+
+@keyframes dots {
+  0%, 20% { content: '.'; }
+  40% { content: '..'; }
+  60%, 100% { content: '...'; }
+}
+
+.dot-animation::after {
+  content: '.';
+  animation: dots 1.5s infinite;
+}
+
+@keyframes progress {
+  0% { width: 0%; }
+  100% { width: 100%; }
+}
+
+.animate-progress {
+  animation: progress 2s ease-in-out;
+  width: 100%;
+}

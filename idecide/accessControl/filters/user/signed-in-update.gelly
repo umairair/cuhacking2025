@@ -1,0 +1,4 @@
+filter ($session: Session, $user: User) on User [
+  where id == $session.user.id
+]
+# structured filters: [{"type":"field_values_filter","field":"id","values":["$session.user.id"]}]
